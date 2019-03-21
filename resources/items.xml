@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<catalog>
+    <weapon id="dragonkiller">
+        <two-handed/>
+        <name>Dragon Killer</name>
+        <damage>10</damage>
+        <description>A great sword forged from fallen dragons</description>
+        <space>40</space>
+        <weight>30</weight>
+        <value>100000</value>
+    </weapon>
+    <garnment id="magicianshat">
+        <name>Magician's Hat</name>
+        <wearable>
+            <head3/>
+        </wearable>
+        <defense>2</defense>
+        <description>Just a silly hat to wear during halloween</description>
+        <space>20</space>
+        <weight>2</weight>
+        <value>50000</value>
+    </garnment>
+    <garnment id="dress">
+        <wearable>
+            <shirt3/><pants3/>
+        </wearable>
+        <defense>5</defense>
+        <space>60</space>
+        <weight>10</weight>
+        <value>30000</value>
+    </garnment>
+    <garnment id="socks">
+        <wearable>
+            <feet1/>
+        </wearable>
+    </garnment>
+    <garnment id="shoes">
+        <wearable>
+            <feet2/>
+        </wearable>
+    </garnment>
+    <garnment id="shorts">
+        <wearable>
+            <pants2/>
+        </wearable>
+    </garnment>
+    <garnment id="shirt">
+        <wearable>
+            <shirt2/>
+        </wearable>
+    </garnment>
+    <garnment id="jacket">
+        <wearable>
+            <shirt3/>
+        </wearable>
+    </garnment>
+    <object id="ball">
+        <name>Ball</name>
+        <description>A marble like ball.</description>
+        <space>2</space>
+        <weight>2</weight>
+        <value>150</value>
+    </object>
+</catalog>

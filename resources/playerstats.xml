@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<players>
+    <player id="yamizee" discord_id="167477697302233088">
+        <name>YamiZee</name>
+        <level>1</level>
+        <exp>0</exp>
+        <health>100</health>
+        <color>0000aa</color>
+    </player>
+    <player id="test777" discord_id="777">
+        <name>Test777</name>
+        <level>1</level>
+        <exp>0</exp>
+        <health>100</health>
+    </player>
+</players>

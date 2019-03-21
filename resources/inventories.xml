@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<players>
+    <player id="yamizee">
+        <holding>
+            <item id="dragonkiller" slot="hands"/>
+        </holding>
+        <wearing>
+            <item id="magicianshat" slot="head3"/>
+        </wearing>
+        <inventory>
+            <item id="ball"/>
+        </inventory>
+    </player>
+    <player id="test777">
+        <wearing>
+            <item id="magicianshat"/>
+        </wearing>
+    </player>
+</players>
